@@ -8,7 +8,7 @@ These can be used in conjunction for any generic parameter estimation problem.
 ## Results using only Nelder-Mead simplex
 
  <figure>
-  <img src="./images/NM_only_estimation.png" alt="drawing" width="500
+  <img src="./images/NM_only_estimation.png" alt="drawing" width="500"/>
   <figcaption>Top: Solution from estimated parameters; Bottom: Experimental Solution.</figcaption>
 </figure> 
 
