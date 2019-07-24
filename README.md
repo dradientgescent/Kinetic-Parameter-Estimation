@@ -11,7 +11,7 @@ These can be used in conjunction for any generic parameter estimation problem.
   <img src="./images/NM_only_estimation.png" alt="drawing" width="500
   <figcaption>Top: Solution from estimated parameters; Bottom: Experimental Solution.</figcaption>
 </figure> 
-"/>
+
 
 
 
