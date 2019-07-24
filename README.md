@@ -27,12 +27,8 @@ It then makes sense to apply these in sucession, getting global estimates from t
 ## Results using only Both Algorithms
 
  <figure>
-  <img src=".images/GA%2BNM_estimation1.png" alt="drawing" width="500"/>
+  <img src="./images/GA%2BNM_estimation1.png" alt="drawing" width="500"/>
   <figcaption>Top: Solution from estimated parameters; Bottom: Experimental Solution.</figcaption>
 </figure> 
 
-
-
-
-
-
+As can be seen from the image and table, this results in much better parameter estimates.
