@@ -7,9 +7,7 @@ These can be used in conjunction for any generic parameter estimation problem.
 
 ## Results using only Nelder-Mead simplex
 
-<img src="./images/NM_only_estimation.png" alt="drawing" width="200"/>
-
-![](./images/NM_only_estimation.png =100x200)
+<img src="./images/NM_only_estimation.png" alt="drawing" width="400"/>
 
 
 
