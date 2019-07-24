@@ -7,6 +7,8 @@ These can be used in conjunction for any generic parameter estimation problem.
 
 ## Results using only Nelder-Mead simplex
 
+Inline-style: 
+![alt text](https://github.com/dradientgescent/Kinetic-Parameter-Estimation/blob/master/images/NM_only_estimation.png = 100x200)
 
 
 
