@@ -12,6 +12,25 @@ These can be used in conjunction for any generic parameter estimation problem.
   <figcaption>Top: Solution from estimated parameters; Bottom: Experimental Solution.</figcaption>
 </figure> 
 
+## Results using only Genetic Algorithm
+
+ <figure>
+  <img src="./images/NM_only_estimation.png" alt="drawing" width="500"/>
+  <figcaption>Top: Solution from estimated parameters; Bottom: Experimental Solution.</figcaption>
+</figure> 
+
+## Results using both algorithms
+
+While the Nelder-Mead simplex is a good local search heuristic, Genetic Algorithms are good for global search.
+It then makes sense to apply these in sucession, getting global estimates from the Genetic Algorithm and fine-tuning these with the Nelder-Mead simplex
+
+## Results using only Both Algorithms
+
+ <figure>
+  <img src=".images/GA%2BNM_estimation1.png" alt="drawing" width="500"/>
+  <figcaption>Top: Solution from estimated parameters; Bottom: Experimental Solution.</figcaption>
+</figure> 
+
 
 
 
