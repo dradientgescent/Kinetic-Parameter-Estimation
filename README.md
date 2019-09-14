@@ -14,7 +14,7 @@ These can be used in conjunction for any generic parameter estimation problem.
   <li>
    <img src="./images/NM_only_estimation.png" alt="drawing" width="300"/>
    <figcaption>Top: Solution from estimated parameters; Bottom: Experimental Solution.</figcaption>
-< /li>
+  </li>
 </ul>
 ## Results using only Genetic Algorithm
 
