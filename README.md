@@ -20,7 +20,7 @@ It then makes sense to apply these in sucession, getting global estimates from t
 
 Results using only Nelder-Mead           |  Results using only GA
 :-------------------------:|:-------------------------:
-![](./images/GA%2BNM_estimation1.png)  |  ![](./images/GA_NM_estimation_2.png){ width=50% }
+![](./images/GA%2BNM_estimation1.png)  |  ![](./images/GA_NM_estimation_2.png =100x100)
 
 
 
