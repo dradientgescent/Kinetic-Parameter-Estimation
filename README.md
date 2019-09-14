@@ -6,16 +6,18 @@ Two algorithms are implmented - A genetic algorithm and the Nelder-Mead Simplex.
 These can be used in conjunction for any generic parameter estimation problem.
 
 ## Results using only Nelder-Mead simplex
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![]("./images/NM_only_estimation.png")  |  ![]("./images/NM_only_estimation.png")
-
  <figure>
-  <img src="./images/NM_only_estimation.png" alt="drawing" width="500"/>
-  <figcaption>Top: Solution from estimated parameters; Bottom: Experimental Solution.</figcaption>
-</figure> 
+  <figure>
+   <img src="./images/NM_only_estimation.png" alt="drawing" width="300"/>
+   <figcaption>Top: Solution from estimated parameters; Bottom: Experimental Solution.</figcaption>
+  </figure> 
+ 
+  <figure>
+   <img src="./images/NM_only_estimation.png" alt="drawing" width="300"/>
+   <figcaption>Top: Solution from estimated parameters; Bottom: Experimental Solution.</figcaption>
+  </figure> 
 
+</figure> 
 ## Results using only Genetic Algorithm
 
  <figure>
