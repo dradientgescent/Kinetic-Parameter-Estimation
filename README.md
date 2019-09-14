@@ -17,10 +17,11 @@ Results using only Nelder-Mead           |  Results using only GA
 While the Nelder-Mead simplex is a good local search heuristic, Genetic Algorithms are good for global search.
 It then makes sense to apply these in sucession, getting global estimates from the Genetic Algorithm and fine-tuning these with the Nelder-Mead simplex
 
-<figure>
-  <img src="./images/GA%2BNM_estimation1.png" alt="drawing" width="500"/>
-  <figcaption>Top: Solution from estimated parameters; Bottom: Experimental Solution.</figcaption>
-</figure> 
+
+Results using only Nelder-Mead           |  Results using only GA
+:-------------------------:|:-------------------------:
+![](./images/GA%2BNM_estimation1.png)  |  ![](./images/GA_NM_estimation_2.png)
+
 
 
 As can be seen from the image and table, this results in much better parameter estimates.
