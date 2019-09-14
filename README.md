@@ -23,5 +23,8 @@ Results using only Nelder-Mead           |  Results using only GA
 ![](./images/GA%2BNM_estimation1.png)  |  ![](./images/GA_NM_estimation_2.png)
 
 
-
+<figure>
+  <img src=".images/Table.png" alt="drawing" width="500"/>
+  <figcaption>Error for different algorithms
+</figure> 
 As can be seen from the image and table, this results in much better parameter estimates.
