@@ -1,15 +1,21 @@
 # Global + Local search for Kinetic Parameter Estimation 
 
+&nbsp;
+
 ## This code implements a parameter estimation pipeline for an MAPK cascade
 
 Two algorithms are implmented - A genetic algorithm and the Nelder-Mead Simplex.
 These can be used in conjunction for any generic parameter estimation problem.
+
+&nbsp;
 
 ## Results using only Nelder-Mead simplex or only GA
 
 Results using only Nelder-Mead (Better for local search)           |  Results using only GA (Better for global search)
 :-------------------------:|:-------------------------:
 <img src="./images/NM_only_estimation.png" width="500">  |  <img src="./images/GA_only_estimation.png" width="450">
+
+&nbsp;
 
 ## Results using both algorithms
 
@@ -19,6 +25,8 @@ It then makes sense to apply these in sucession, getting global estimates from t
 Results using both Algorithms together    |  Results using both Algorithms together  
 :-------------------------:|:-------------------------:
 ![](./images/GA%2BNM_estimation1.png)  |  ![](./images/GA_NM_estimation_2.png)
+
+&nbsp;
 
 ## Performance of the three search heuristics
 
