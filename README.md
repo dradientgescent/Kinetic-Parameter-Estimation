@@ -1,4 +1,4 @@
-# Kinetic Parameter Estimation 
+# Global + Local search for Kinetic Parameter Estimation 
 
 ## This code implements a parameter estimation pipeline for an MAPK cascade
 
