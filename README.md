@@ -32,7 +32,7 @@ Results using both Algorithms together    |  Results using both Algorithms toget
 
 <figure>
   <img src="./images/Table.png" alt="drawing" width="1000"/>
-  <figcaption>Error for different algorithms
+  <figcaption> &nbsp; Error for different algorithms
 </figure> 
   
 As can be seen from the images and table, GA for global search followed by NM for local search gives most accurate parameter estimates.
