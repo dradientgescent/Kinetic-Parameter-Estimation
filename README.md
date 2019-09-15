@@ -20,6 +20,7 @@ Results using both Algorithms together    |  Results using both Algorithms toget
 :-------------------------:|:-------------------------:
 ![](./images/GA%2BNM_estimation1.png)  |  ![](./images/GA_NM_estimation_2.png)
 
+## Performance of the three search heuristics
 
 <figure>
   <img src="./images/Table.png" alt="drawing" width="1000"/>
