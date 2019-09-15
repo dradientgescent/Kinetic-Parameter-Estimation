@@ -9,7 +9,7 @@ These can be used in conjunction for any generic parameter estimation problem.
 
 Results using only Nelder-Mead           |  Results using only GA
 :-------------------------:|:-------------------------:
-<img src="./images/NM_only_estimation.png" width="500">  |  <img src="./images/GA_only_estimation.png" width="500">
+<img src="./images/NM_only_estimation.png" width="500">  |  <img src="./images/GA_only_estimation.png" width="450">
 
 ## Results using both algorithms
 
