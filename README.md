@@ -26,4 +26,5 @@ Results using both Algorithms together    |  Results using both Algorithms toget
   <img src="./images/Table.png" alt="drawing" width="1000"/>
   <figcaption>Error for different algorithms
 </figure> 
-As can be seen from the image and table, this results in much better parameter estimates.
+  
+As can be seen from the images and table, GA for global search followed by NM for local search gives most accurate parameter estimates.
