@@ -7,7 +7,7 @@ These can be used in conjunction for any generic parameter estimation problem.
 
 ## Results using only Nelder-Mead simplex or only GA
 
-Results using only Nelder-Mead           |  Results using only GA
+Results using only Nelder-Mead (Better for local search)           |  Results using only GA (Better for global search)
 :-------------------------:|:-------------------------:
 <img src="./images/NM_only_estimation.png" width="500">  |  <img src="./images/GA_only_estimation.png" width="450">
 
