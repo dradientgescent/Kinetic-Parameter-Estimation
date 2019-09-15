@@ -31,7 +31,7 @@ Results using both Algorithms together    |  Results using both Algorithms toget
 ## Performance of the three search heuristics
 
 <figure>
-  <img src="./images/Table.png" alt="drawing" width="1000"/>
+  <img src="./images/Table.png" alt="drawing" width="950"/>
   <figcaption>Error for different algorithms
 </figure> 
 
