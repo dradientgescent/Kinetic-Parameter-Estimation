@@ -9,6 +9,11 @@ These can be used in conjunction for any generic parameter estimation problem.
 
 &nbsp;
 
+## Workflow
+> Parameter search using local Nelder-Mead simplex
+> Parameter search using Genetic Algorithm
+> Combines estimation using GA for global search and NMS for local search
+
 ## Results using only Nelder-Mead simplex or only GA
 
 Results using only Nelder-Mead (Better for local search)           |  Results using only GA (Better for global search)
